@@ -1,5 +1,5 @@
 # Contributing to Markdown to PDF
-*please note this is vibecoded*
+*Please note this is vibecoded*
 
 Thank you for your interest in contributing to Markdown to PDF! We welcome contributions from the community.
 
